@@ -1,2 +1,3 @@
 # Customer-ChurnRate-Analysis
-Analyze the Churn Rate of Customers for a bank.
+
+Anaysis of the Customers Churn Rate for a bank.
